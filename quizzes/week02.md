@@ -1,17 +1,17 @@
 # Intro to JavaScript
 
 **1.** Which keywords are used to declare a variable in JavaScript?
-<!-- enter you answer in the space below -->
+Var, Let, and Const
 ```
 
 ```
 **2.** What is the definition of a function?
-<!-- enter you answer in the space below -->
+a block of code that runs at a specified point in the code you've written.
 ```
 
 ```
 **3.** What are the `SOLID` principles?
-<!-- enter you answer in the space below -->
+Single-responsibility Principle, Open-closed Principle, Liskov Substitution Principle, Interface Segregation Principle, and Dependency Inversion Principle.
 ```
 
 ```
@@ -20,7 +20,7 @@
 let fruit = ['apple', 'banana', 'pineapple',  'orange', 'strawberry']
 ``` 
 What index is the pineapple's current position? How do you know?
-<!-- enter you answer in the space below -->
+Second, because the array starts at index 0.
 ```
 
 ```
@@ -30,13 +30,17 @@ let you = { name:"You", hair: true, friends: [] }
 let them = { name:"Them", hair: false, friends: [] }
 ```
 how would you .push the `them` object into the `you` object's array of friends?
-<!-- enter you answer in the space below -->
+them.push(you)
 ```
 
 ```
 
 **6.** Give an example of a JavaScript `Conditional`:
-<!-- enter you answer in the space below -->
+if(9>10){
+  console.log(`false`)
+}else{
+  console.log(`true`)
+};
 ```
 
 ```
@@ -45,28 +49,28 @@ how would you .push the `them` object into the `you` object's array of friends?
 for ( let i = 0; i < arr.length; _______ ) {
   //...
 ```
-<!-- enter you answer in the space below -->
+i++
 ```
 
 ```
 **8.** What does the `DOM` acronym stand for? Which file is first accessed to render the `DOM`?
-<!-- enter you answer in the space below -->
+document object model
 ```
 
 ```
 
 **9.** What are the `9` ECMAScript types as defined by MDN?
-<!-- enter you answer in the space below -->
+Could not find a definition on MDN
 ```
 
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
-<!-- enter you answer in the space below -->
+parameters must be met for the arguments to be fed into the function
 ```
 
 ```
 **11.** What is the difference between a `primitive` value and a `reference` value?
-<!-- enter you answer in the space below -->
+Primitive is the value of that variable. Reference holds the information related to that variable.
 ```
 
 ```
