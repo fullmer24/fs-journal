@@ -20,6 +20,6 @@ The biggest challenge is deciding if you will use embedding or linking, and if e
 
 ## Afternoon Assignment Link
 
-**[Repo](https://github.com/fullmer24/<ASSIGNMENT_REPO>)**
+**[Repo](https://github.com/fullmer24/Gregslist-auth)**
 
 Identify at least 1 takeaway from today's assignment

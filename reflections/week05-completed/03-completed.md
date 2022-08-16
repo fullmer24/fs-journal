@@ -19,6 +19,6 @@ When I run into problems I don't time box well and end up working on something u
 
 ## Afternoon Assignment Link
 
-**[Repo](https://github.com/fullmer24/<ASSIGNMENT_REPO>)**
+**[Repo](https://github.com/fullmer24/Planets)**
 
 Identify at least 1 takeaway from today's assignment

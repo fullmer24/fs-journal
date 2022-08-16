@@ -20,6 +20,6 @@ You can't. Virtuals aren't available for document queries.
 
 ## Afternoon Assignment Link
 
-**[Repo](https://github.com/fullmer24/<ASSIGNMENT_REPO>)**
+**[Repo](https://github.com/fullmer24/summer22-fedEx)**
 
 Identify at least 1 takeaway from today's assignment
