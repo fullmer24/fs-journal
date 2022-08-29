@@ -6,7 +6,11 @@
 
 1. Which principles from this weeks reading did you implement?
 
+We didn't do a partner project this week because we were working on our checkpoints
+
 2. What went well this week?
+
+Got through a major checkpoint 
 
 3. What would you do differently?
 
