@@ -8,9 +8,15 @@
 
 1. Why is communication on a small team important?
 
+communication is important so that you can get more done without interrupting workflow for meetings when it can be done in a more effective way.
+
 2. What adjustments from traditional sized scrum teams need to be made to use the agile methodology effectively in a small team?
 
+There are many adjustments that will need to be made. Working with a smaller team means utilizing more of a "on the fly" type approach.
+
 3. What is the unattainable triangle? What are the tradeoffs of each side?
+
+The unattainable triangle is the set of tradeoffs between the speed of development and the quality of the software delivered. Good service Cheap won’t be Fast, Good service Fast won’t be Cheap, and Fast service Cheap won’t be Good.
 
 ## Afternoon Assignment Link
 
